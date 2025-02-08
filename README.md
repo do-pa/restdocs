@@ -25,4 +25,4 @@ restdocs/
 ``` 
 
 ### 커미션규칙 
-이슈기반으로 -> commit closed 또는 related로 진행하기
+이슈기반으로 -> commit closed 또는 related로 진행하기22
